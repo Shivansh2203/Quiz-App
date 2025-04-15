@@ -45,17 +45,13 @@
   button {
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: #b1b5a9ec;
+    background-color: #fcdb06ef;
     color: rgb(25, 23, 23);
     border: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-  }
-  
-  button:hover {
-    background-color: #fcdb06ef;
   }
   
   .index {
